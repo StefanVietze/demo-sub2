@@ -1,0 +1,3 @@
+[submodule "TeXTemplates"]
+	path = TeXTemplates
+	url = https://github.com/HolgerGerhardt/TeXTemplates.git
